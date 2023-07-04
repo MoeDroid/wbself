@@ -1,3 +1,3 @@
 # wbself
 
-made with Acode and 🖕
+made with QuickEdit 
